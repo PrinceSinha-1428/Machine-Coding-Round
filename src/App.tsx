@@ -1,11 +1,13 @@
 // import Autocomplete from "./components/Autocomplete";
-import Pagination from "./components/Pagination";
+// import Pagination from "./components/Pagination";
+import TabForm from "./components/TabForm";
 
 const App = () => {
   return (
-    <div>
+    <div >
       {/* <Autocomplete/> */}
-      <Pagination/>
+      {/* <Pagination/> */}
+      <TabForm/>
     </div>
   );
 }
