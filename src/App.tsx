@@ -1,9 +1,11 @@
-import Autocomplete from "./components/Autocomplete";
+// import Autocomplete from "./components/Autocomplete";
+import Pagination from "./components/Pagination";
 
 const App = () => {
   return (
     <div>
-      <Autocomplete/>
+      {/* <Autocomplete/> */}
+      <Pagination/>
     </div>
   );
 }
