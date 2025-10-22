@@ -1,13 +1,14 @@
 // import Autocomplete from "./components/Autocomplete";
 // import Pagination from "./components/Pagination";
-import TabForm from "./components/TabForm";
+import OTPInput from "./components/OTPInput";
 
 const App = () => {
   return (
     <div >
       {/* <Autocomplete/> */}
       {/* <Pagination/> */}
-      <TabForm/>
+      {/* <TabForm/> */}
+      <OTPInput/>
     </div>
   );
 }
